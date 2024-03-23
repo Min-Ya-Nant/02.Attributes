@@ -1,0 +1,23 @@
+.section {
+    background-color: rgb(255, 205, 228);
+}
+
+.headers {
+    color: rgb(139, 102, 0);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+#email {
+    background-color:rgb(180, 180, 75);
+}
+
+#github {
+    background-color: plum;
+}
+
+#portfolio {
+    background-color: rgb(207, 175, 87);
+}
